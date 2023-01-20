@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="edf2e8fb-98c8-484e-b119-38426b92e325">
+  <name>stipendia</name>
+  <synonym>
+    <key>ru</key>
+    <value>Stipendia</value>
+  </synonym>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <defaultRunMode>Checked</defaultRunMode>
+    <usePurposes>Checked</usePurposes>
+    <commandInterface>Extended</commandInterface>
+    <mainSectionCommandInterface>Extended</mainSectionCommandInterface>
+    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
+    <compatibilityMode>Checked</compatibilityMode>
+    <defaultStyle>Extended</defaultStyle>
+    <defaultRoles>Extended</defaultRoles>
+  </extension>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="ce351411-a4e2-4c5c-88e4-2d054f721481"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="556c7db3-61df-4478-afa9-d743335d3631"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="cd0a846a-1813-446e-8deb-416d09f21f1d"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="9bea7f9f-0f6a-4b96-a773-8152b302f2ae"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="12b58e42-507d-447b-bfe6-9e93f440861f"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="6fd18b4e-eb27-47c6-ae46-3e7faf018e0c"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="0e38ac73-8579-4aa0-bf00-0aaf5f771446"/>
+  <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
+  <namePrefix>_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.21</configurationExtensionCompatibilityMode>
+  <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultRoles>Role._ОсновнаяРоль</defaultRoles>
+  <compatibilityMode>8.3.21</compatibilityMode>
+  <roles>Role._ОсновнаяРоль</roles>
+  <catalogs>Catalog._Справочник</catalogs>
+</mdclass:Configuration>
